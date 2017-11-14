@@ -23,7 +23,8 @@ The dashboard containing our solution to this problem is [here](dashboard.html).
 ### Problem 2
 We use selectInput widgets to choose three different areas and we also use liderInput widget to choose the precipitation. And then we draw interactive scatterplot and interactive barchart based on problem 1.
 
-
+### GitHub repo(s)
+The github report is [here](https://github.com/zxinxinz/P8105_hw6-dashboard)
 
 
 
