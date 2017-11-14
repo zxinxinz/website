@@ -1,0 +1,27 @@
+---
+title: "NOAA Data"
+---
+
+In Problems 1 and 2, I worked with Siling Li (UNI: ).
+
+### Data Instruction
+
+The dataset we used is the NOAA. It contains five core variables for all New York state weather stations from January 1, 1981 through December 31, 2010. We will focus on data from January 1,2016 to December 31, 2016. 
+The resulting R dataset weather contains variables:
+name: Name of weather station
+id: Weather station ID
+date: Date of observation
+prcp: Precipitation (tenths of mm)
+tmax: Maximum temperature (tenths of degrees C)
+tmin: Minimum temperature (tenths of degrees C)
+
+### Problem 1 
+In this problem we have 3 plots. That is a scatter plot, a box plot and a bar plot. The scatter plot illustrates the relationship between tmax and tmin. The box plot compares the difference of precipitation between stations. The bar plot shows the mean tmax in every month in three different regions.
+
+The dashboard containing our solution to this problem is [here](dashboard.html).
+
+### Problem 2
+
+
+
+
