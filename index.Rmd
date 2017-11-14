@@ -16,11 +16,13 @@ tmax: Maximum temperature (tenths of degrees C)
 tmin: Minimum temperature (tenths of degrees C)
 
 ### Problem 1 
-In this problem we have 3 plots. That is a scatter plot, a box plot and a bar plot. The scatter plot illustrates the relationship between tmax and tmin. The box plot compares the difference of precipitation between stations. The bar plot shows the mean tmax in every month in three different regions.
+In this problem we have 3 plots. That is a scatter plot, a box plot and a bar plot. The scatter plot illustrates the relationship between tmax and tmin. The box plot compares the difference of precipitation between stations. The barchart shows the mean tmax in every month in three different regions.
 
 The dashboard containing our solution to this problem is [here](dashboard.html).
 
 ### Problem 2
+We use selectInput widgets to choose three different areas and we also use liderInput widget to choose the precipitation. And then we draw interactive scatterplot and interactive barchart based on problem 1.
+
 
 
 
