@@ -2,7 +2,7 @@
 title: "NOAA Data"
 ---
 
-In Problems 1 and 2, I worked with Siling Li (UNI: ).
+In Problems 1 and 2, I worked with Siling Li (UNI: sl4283).
 
 ### Data Instruction
 
